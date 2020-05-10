@@ -46,12 +46,14 @@ Perintah di bawah ini memberikan instruksi untuk sistem berbasis Debian.
 
 Untuk menggunakan bomber ketik perintah-perintah berikut dalam Termux:
 `` `
-pkg instal git
-pkg instal python
-git clone https://github.com/TheSpeedX/TBomb.git
-cd TBomb
-chmod + x TBomb.sh
-./TBomb.sh
+<ul>
+<li><code>pkg instal git</code></li>
+<li><code>pkg instal python</code></li>
+<li><code>git clone https://github.com/SansBae/TBomb.git</code></li>
+<li><code>cd TBomb</li></code>
+<li><code>chmod + x TBomb.sh</code></li>
+<li><code>./TBomb.sh</code></li>
+</ul>
 `` `
 
 ###> Untuk Linux:
